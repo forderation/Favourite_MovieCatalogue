@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Favourites Movie DB</string>
+    <string name="title_movie">Aquaman</string>
+    <string name="overview_movie">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="release_date_movie">2018–12–07</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="tv_title">Judul:</string>
+    <string name="tv_release_date">Tanggal rilis:</string>
+    <string name="tv_18">Konten untuk:</string>
+    <string name="tv_current_status">Status saat ini:</string>
+    <string name="tv_overview">Ringkasan:</string>
+    <string name="tv_original_language">Bahasa asli:</string>
+    <string name="tv_homepage">Halaman beranda:</string>
+    <string name="tv_vote_average">Voting rata-rata:</string>
+    <string name="action_menu_favourite">Tambahkan sebagai favorit</string>
+    <string name="succes_remove_favourite">Sukses menghapus dari daftar favorit</string>
+    <string name="fail_change_stat">Gagal memperbarui status</string>
+    <string name="succes_add_favourite">Sukses menambah ke daftar favorit</string>
+    <string name="update_db">Daftar favorit telah diperbarui</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="tv_first_air_date">Pertama kali tayang:</string>
+    <string name="tv_original_name">Judul asli:</string>
+    <string name="language_settings">Ganti pengaturan bahasa</string>
+    <string name="title_tab_movie">Film Favorit</string>
+    <string name="title_tab_tv">Acara TV Favorit</string>
+</resources>
